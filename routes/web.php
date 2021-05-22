@@ -14,12 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home0083');
+    return view('home0080');
 });
-Route::get('/artikel0083', function () {
-    return view('artikel0083');
+Route::get('/artikel0080', function () {
+    return view('artikel0080');
 });
-Route::get('/contactus0083', function () {
-    return view('contactus0083');
+Route::get('/contactus0080', function () {
+    return view('contactus0080');
 });
 Route::get('/home', 'App\Http\Controller\Homecontroller@index' ) ;
