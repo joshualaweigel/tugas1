@@ -2,7 +2,7 @@
 <head>
 	<title>HOME</title>
 </head>
-<body background="images/cover.jpg">
+<body background="images/cover.jfif">
 <div id="header" class="header">
 		<div id="search">	
 </div>	  
